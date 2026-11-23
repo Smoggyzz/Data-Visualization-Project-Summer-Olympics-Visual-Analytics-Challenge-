@@ -18,9 +18,9 @@
 | 成员 | GitHub 用户名 | 角色 | 负责目录 | CODEOWNERS |
 | --- | --- | --- | --- | --- |
 | 组长 / 仓库所有者 | @cFqr-lang | Admin | 统筹、`.github/`、`scripts/` | `*` |
-| 任务一 | 待填 | Write | `task1-data/`、`contracts/` | `/task1-data/`、`/contracts/` |
-| 任务二 | 待填 | Write | `task2-visual/` | `/task2-visual/` |
-| 任务三 | 待填 | Write | `task3-insights/` | `/task3-insights/` |
+| 任务一 | @chuhaowang | Write | `task1-data/`、`contracts/` | `/task1-data/`、`/contracts/` |
+| 任务二 | @cFqr-lang（兼） | Write | `task2-visual/` | `/task2-visual/` |
+| 任务三 | @shengmy-git | Write | `task3-insights/` | `/task3-insights/` |
 | 任务四 | 待填 | Write | `task4-bonus/` | `/task4-bonus/` |
 
 > CODEOWNERS 位于 `.github/CODEOWNERS`。填入真实用户名后取消对应注释，并在分支保护中开启 “Require review from Code Owners”。
@@ -89,6 +89,7 @@ $env:GITHUB_TOKEN = "<你的 PAT>"
 
 ## 7. 仍需补充的信息
 
-- [ ] 三名组员的 GitHub 用户名
+- [x] 任务一 @chuhaowang、任务三 @shengmy-git（已邀请 Write）
+- [ ] 任务四组员的 GitHub 用户名
 - [ ] 是否需要外部指导老师只读权限
 - [ ] 是否启用 Code Owner 强制审批

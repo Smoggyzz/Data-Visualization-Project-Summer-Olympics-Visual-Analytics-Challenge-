@@ -9,14 +9,14 @@
 * @cFqr-lang
 
 # 任务一：数据清洗、口径定义、质量检查
-# /task1-data/      @task1-github
-# /contracts/       @task1-github @cFqr-lang
+/task1-data/      @chuhaowang
+/contracts/       @chuhaowang @cFqr-lang
 
 # 任务二：全景图表、ECharts 站点、图资产
-# /task2-visual/    @task2-github
+/task2-visual/    @cFqr-lang
 
 # 任务三：专题深挖
-# /task3-insights/  @task3-github
+/task3-insights/  @shengmy-git
 
 # 任务四：Dashboard / 预测 / 数据新闻
 # /task4-bonus/     @task4-github
