@@ -1,0 +1,11 @@
+figure_id,chart_id,title,chapter,png,svg,caliber,denominator,includes_1906,data_version,caption,interpretation,used_in,owner,status
+Fig.2-1,A1,双口径总榜与排名敏感性,奖牌版图,task2-visual/exports/png/Fig2-1_A1_dual-caliber_4x.png,task2-visual/exports/svg/Fig2-1_A1_dual-caliber.svg,conservative_event+athlete_row,NOC×届,false,v1.0,,docs/任务二方案.md,report+poster+site,task2,planned
+Fig.2-2,A2,逐届演变与膨胀指数,奖牌版图,task2-visual/exports/png/Fig2-2_A2_medal-race_4x.png,task2-visual/exports/svg/Fig2-2_A2_medal-race.svg,conservative_event,每届,false,v1.0,,docs/任务二方案.md,report+site,task2,planned
+Fig.2-3,B1,九国命运矩阵,国家沉浮,task2-visual/exports/png/Fig2-3_B1_nine-nations_4x.png,task2-visual/exports/svg/Fig2-3_B1_nine-nations.svg,conservative_event,每届,false,v1.0,,docs/任务二方案.md,report+poster+site,task2,planned
+Fig.2-4,C1,她的奥运双弧线,她的奥运,task2-visual/exports/png/Fig2-4_C1_women-arc_4x.png,task2-visual/exports/svg/Fig2-4_C1_women-arc.svg,athlete_row,全部参赛记录,false,v1.0,,docs/任务二方案.md,report+site,task2,planned
+Fig.2-5,C2,参与不等于产出,她的奥运,task2-visual/exports/png/Fig2-5_C2_participation-output_4x.png,task2-visual/exports/svg/Fig2-5_C2_participation-output.svg,athlete_row,该国该届记录,false,v1.0,,docs/任务二方案.md,report+site,task2,planned
+Fig.2-6,D1,项目生命线,项目生灭,task2-visual/exports/png/Fig2-6_D1_sport-lifeline_4x.png,task2-visual/exports/svg/Fig2-6_D1_sport-lifeline.svg,event_level,每届,false,v1.0,,docs/任务二方案.md,report+poster+site,task2,planned
+Fig.2-7,B2,国家效率前沿,国家沉浮,task2-visual/exports/png/Fig2-7_B2_efficiency-frontier_4x.png,task2-visual/exports/svg/Fig2-7_B2_efficiency-frontier.svg,conservative_event,场均参赛人数,false,v1.0,,docs/任务二方案.md,report+site,task2,planned
+Fig.2-8,D2,项目结构变迁,项目生灭,task2-visual/exports/png/Fig2-8_D2_structure-river_4x.png,task2-visual/exports/svg/Fig2-8_D2_structure-river.svg,event_level,份额,false,v1.0,,docs/任务二方案.md,report+site,task2,planned
+Fig.2-9,X1,国家项目优势矩阵,国家沉浮,task2-visual/exports/png/Fig2-9_X1_strength-matrix_4x.png,task2-visual/exports/svg/Fig2-9_X1_strength-matrix.svg,conservative_event,国家×项目,false,v1.0,,docs/任务二方案.md,report,task2,optional
+Fig.2-10,X2,项目性别差哑铃,她的奥运,task2-visual/exports/png/Fig2-10_X2_gender-gap_4x.png,task2-visual/exports/svg/Fig2-10_X2_gender-gap.svg,event_level,2024,false,v1.0,,docs/任务二方案.md,report,task2,optional

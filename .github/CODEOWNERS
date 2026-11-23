@@ -1,0 +1,26 @@
+# CODEOWNERS
+#
+# 默认负责人：仓库所有者
+# 组员 GitHub 用户名确认后，把下方占位符替换为真实用户名，并取消注释。
+# 语法：路径  @用户名1 @用户名2
+# 注意：CODEOWNERS 只有配合 main 分支保护的
+#       "Require review from Code Owners" 才会强制生效。
+
+* @cFqr-lang
+
+# 任务一：数据清洗、口径定义、质量检查
+# /task1-data/      @task1-github
+# /contracts/       @task1-github @cFqr-lang
+
+# 任务二：全景图表、ECharts 站点、图资产
+# /task2-visual/    @task2-github
+
+# 任务三：专题深挖
+# /task3-insights/  @task3-github
+
+# 任务四：Dashboard / 预测 / 数据新闻
+# /task4-bonus/     @task4-github
+
+# 仓库配置与脚本仅由负责人维护
+/.github/           @cFqr-lang
+/scripts/           @cFqr-lang
